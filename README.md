@@ -3,3 +3,4 @@
 (2)Aqui estão práticas para conhecimento de todos.
 (3)Variáveis,Laços de repetição e Funções.
 (4)Laboratórios e Sistemas.
+(5)Variações
