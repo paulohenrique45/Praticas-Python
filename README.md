@@ -1,7 +1,2 @@
 # Praticas-Python
-(1)Atividades e Práticas para estudo e fixação.
-(2)Aqui estão práticas para conhecimento de todos.
-(3)Variáveis,Laços de repetição e Funções.
-(4)Laboratórios e Sistemas.
-(5)Variações
-(6)Versões
+(1) Novos Projetos
